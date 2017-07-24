@@ -1,7 +1,7 @@
 moveit_setup_assistant_config:
   URDF:
-    package: sawyer_description
-    relative_path: urdf/sawyer_arm_only.urdf
+    package: sawyer_description_openrave
+    relative_path: urdf/real_sawyer_urdf.xml
   SRDF:
     relative_path: config/sawyer.srdf
   CONFIG:

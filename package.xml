@@ -23,8 +23,8 @@
   <run_depend>joint_state_publisher</run_depend>
   <run_depend>robot_state_publisher</run_depend>
   <run_depend>xacro</run_depend>
-  <build_depend>sawyer_description</build_depend>
-  <run_depend>sawyer_description</run_depend>
+  <build_depend>sawyer_description_openrave</build_depend>
+  <run_depend>sawyer_description_openrave</run_depend>
 
 
 </package>
